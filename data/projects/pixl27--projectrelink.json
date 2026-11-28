@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-28",
+  "category": "games",
+  "description": "Static recompilation of the Switch 2 remake to native Windows. Game files not included.",
+  "group": "Static Recompilations",
+  "name": "Project ReLink",
+  "target": "The Legend of Zelda: Ocarina of Time (Switch 2)",
+  "url": "https://github.com/pixl27/ProjectReLink"
+}

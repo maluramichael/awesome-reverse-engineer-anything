@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-28",
+  "category": "games",
+  "description": "Runs the PS4 game's own code natively on Windows with replaced PS4 system libraries and a Vulkan renderer, using your own game package.",
+  "group": "Source Ports and Engine Rebuilds",
+  "name": "Dragon's Crown Pro PC port",
+  "target": "Dragon's Crown Pro",
+  "url": "https://github.com/saulob/dragons-crown-pro-pc"
+}

@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-28",
+  "category": "protocols",
+  "description": "Open replacement for the phone side of Android Auto that works without Google Play Services or an account.",
+  "name": "AARE",
+  "target": "Android Auto",
+  "url": "https://github.com/prototux/AARE"
+}

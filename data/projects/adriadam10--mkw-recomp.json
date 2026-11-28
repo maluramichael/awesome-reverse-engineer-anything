@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-28",
+  "category": "games",
+  "description": "Static recompilation of the Switch 2 game to native Linux and Windows, with NVN2 on Vulkan. Game files not included.",
+  "group": "Static Recompilations",
+  "name": "mkw-recomp",
+  "target": "Mario Kart World",
+  "url": "https://github.com/adriadam10/mkw-recomp"
+}

@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-28",
+  "category": "games",
+  "description": "Static recompilation of the Switch game to native Windows, Linux and Steam Deck. Game files not included.",
+  "group": "Static Recompilations",
+  "name": "Super Odyssey PC Recomp",
+  "target": "Super Mario Odyssey",
+  "url": "https://github.com/Simon3Sarkis/super-odyssey-pc-recomp"
+}

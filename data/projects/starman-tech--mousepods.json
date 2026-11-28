@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-28",
+  "category": "protocols",
+  "description": "Reads head tracking and motion sensors from AirPods on Linux and documents Apple's RemoteHID protocol.",
+  "name": "MousePods",
+  "target": "AirPods RemoteHID",
+  "url": "https://github.com/starman-tech/Mousepods"
+}

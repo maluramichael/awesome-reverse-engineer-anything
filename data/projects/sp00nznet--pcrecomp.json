@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-28",
+  "category": "tools",
+  "description": "Tools and runtimes for statically recompiling old DOS, Windows and NeXTSTEP programs into C that runs natively on modern Windows or Linux.",
+  "exempt": "Added by hand at 185 stars.",
+  "group": "Recompilers and Decomp Toolchains",
+  "name": "pcrecomp",
+  "url": "https://github.com/sp00nznet/pcrecomp"
+}

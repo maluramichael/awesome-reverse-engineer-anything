@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-28",
+  "category": "games",
+  "description": "Static recompilations of the four Xbox 360 games to native Windows, with a launcher and peer to peer multiplayer. Game files not included.",
+  "group": "Static Recompilations",
+  "name": "COGBox",
+  "target": "Gears of War 1 to 3 and Judgment",
+  "url": "https://github.com/Shagg88/COGBox"
+}
